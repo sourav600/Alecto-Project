@@ -1,0 +1,19 @@
+.bg-img{
+    background-image: url('images.jpeg');
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.icon{
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    background-color: rgb(228, 250, 250);
+    border-radius: 99px;
+}
+.footer-img{
+    background-image: url('download.jpeg');
+    background-size: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+}
